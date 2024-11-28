@@ -7,7 +7,7 @@ This is a simple Java calculator application developed using IntelliJ IDEA. It p
 
 ## Purpose
 
-This project allowed me to utilize basic existing code to practice Java concepts that I have been learning. Over time, as I learn new concepts, I plan to add additional features to develop my skills further.
+This project allowed me to utilise basic existing code to practice Java concepts that I have been learning. Over time, as I learn new concepts, I plan to add additional features to develop my skills further.
 
 ## Features
 
